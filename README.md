@@ -12,7 +12,7 @@ Exemplo: se dois usuários deram notas parecidas para vários filmes, é prováv
 
 ## Técnicas utilizadas
 - **Pandas** — manipulação dos dados  
-- **Scikit-learn** — cálculo de similaridade do cosseno  
+- **Scikit-learn** — cálculo de similaridade  
 - **Seaborn / Matplotlib** — visualização da matriz de notas  
 
 ---
